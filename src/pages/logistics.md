@@ -19,8 +19,8 @@ title: Course logistics
 | Steven Man | Monday 3-4 pm |
 | Haochen Zhang | Tuesday (TBD) |
 | Wenli Xiao | Wednesday (TBD) |
+| Ying Yuan |  Thursday 3-4 PM |
 | Chaitanya Chawla | Fri 10:30-11:30 AM |
-| Ying Yuan |  Thursday 3-4 pm |
 
 <!-- ### Class Forum
 
