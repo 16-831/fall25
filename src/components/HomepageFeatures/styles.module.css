@@ -1,0 +1,17 @@
+.features {
+  display: flex;
+  max-width: 1100px;
+  margin: 0 auto;
+  align-items: center;
+  padding: 2rem 0;
+}
+
+.featureSvg {
+  height: 150px;
+  width: 150px;
+}
+
+.featureImage {
+  height: 150px;
+  width: 150px;
+}
