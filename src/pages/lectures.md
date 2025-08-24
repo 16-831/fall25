@@ -4,7 +4,7 @@ title: Lectures
 
 ## Course Schedule
 
-Lecture slides are posted here and on [Piazza](/links). All due dates are at 11:59 PM ET.
+Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2025/16831/home) a day before the lecture starts. All due dates are at 11:59 PM ET.
 
 | Date | Lecture| Optional Readings | Logistics | Topic Groups|
 |------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------|
