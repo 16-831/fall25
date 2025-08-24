@@ -16,7 +16,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">16-831, Fall 2025</p>
-        <p className="hero__subtitle">T/Th 12:30-1:50 PM, TEP 1403</p>
+        <p className="hero__subtitle">T/Th 12:30-1:50 PM, HOA 160</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
