@@ -15,8 +15,8 @@ title: Course logistics
 
 |         |  Office Hours    |
 | ------------- | :-----------: |
-| Guanya Shi | TBD, NSH 3209 |
-| Steven Man | Monday 3-4 pm |
+| Guanya Shi | Email appointment |
+| Steven Man | Monday 2-3 pm |
 | Haochen Zhang | Tuesday (TBD) |
 | Wenli Xiao | Wednesday (TBD) |
 | Ying Yuan |  Thursday 3-4 PM |
