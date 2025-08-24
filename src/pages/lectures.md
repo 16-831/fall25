@@ -31,10 +31,10 @@ Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2025/1
 | 11/04| Democracy Day | || 🗳️|
 | 11/06| Lecture 19: Offline RL ([Aviral Kumar](https://aviralkumar2907.github.io/)) [[slides](#)] | [[NeurIPS Tutorial](https://sites.google.com/view/offlinerltutorial-neurips2020/home)][[IQL](https://arxiv.org/abs/2110.06169)][[Diffuser](https://arxiv.org/abs/2205.09991)] | | ⚪ RL from Offline Data |
 | 11/11| Lecture 20: Inverse RL [[slides](#)] | [[Maximum Entropy IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf)][[LP-IRL](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf)] || ⚪ RL from Offline Data |
-| 11/13| Lecture 22: Robot Simulation and Sim2Real [[slides](#)] | [[Genesis](https://genesis-embodied-ai.github.io/)][[Domain Randomization](https://arxiv.org/abs/1703.06907)][[Champion-Level Drone Racing](https://www.nature.com/articles/s41586-023-06419-4)] | HW4 Due| 🟤 Specialized Topics   |
-| 11/18| Lecture 23: Safe RL and Safe Robot Learning [[slides](#)] | [[Safe Robot Learning Survey](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-042920-020211)][[Data-Driven Safety Filters](https://ieeexplore.ieee.org/abstract/document/10266799)] || 🟤 Specialized Topics   |
-| 11/20| Lecture 24: Multi-Task/Adaptable/Transferable Robot Learning [[slides](#)] | [[Teacher-Student](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/448343/1/2020_science_robotics_lee_locomotion.pdf)][[RMA](https://arxiv.org/abs/2107.04034)][[Neural-Fly](https://arxiv.org/abs/2205.06908)] || 🟤 Specialized Topics |
-| 11/25| Lecture 25: Humanoid Learning ([Carlo Sferrazza](https://sferrazza.cc/)) [[slides](#)] | | | 🟤 Specialized Topics |
+| 11/13| Lecture 21: Robot Simulation and Sim2Real [[slides](#)] | [[Genesis](https://genesis-embodied-ai.github.io/)][[Domain Randomization](https://arxiv.org/abs/1703.06907)][[Champion-Level Drone Racing](https://www.nature.com/articles/s41586-023-06419-4)] | HW4 Due| 🟤 Specialized Topics   |
+| 11/18| Lecture 22: Safe RL and Safe Robot Learning [[slides](#)] | [[Safe Robot Learning Survey](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-042920-020211)][[Data-Driven Safety Filters](https://ieeexplore.ieee.org/abstract/document/10266799)] || 🟤 Specialized Topics   |
+| 11/20| Lecture 23: Multi-Task/Adaptable/Transferable Robot Learning [[slides](#)] | [[Teacher-Student](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/448343/1/2020_science_robotics_lee_locomotion.pdf)][[RMA](https://arxiv.org/abs/2107.04034)][[Neural-Fly](https://arxiv.org/abs/2205.06908)] || 🟤 Specialized Topics |
+| 11/25| Lecture 24: Humanoid Learning ([Carlo Sferrazza](https://sferrazza.cc/)) [[slides](#)] | | | 🟤 Specialized Topics |
 | 11/27| Thanksgiving | || 🦃|
 | 12/02| Lecture 25: Student Project Presentations | || ⚫ Project  |
 | 12/04| Lecture 26: Student Project Presentations | || ⚫ Project  |
