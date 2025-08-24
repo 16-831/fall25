@@ -6,7 +6,7 @@ title: Course logistics
 
 **Time**: Tuesday/Thursday 12:30-1:50 PM
 
-**Location**: TEP 1403
+**Location**: HOA 160
 
 
 
