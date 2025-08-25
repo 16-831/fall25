@@ -16,11 +16,11 @@ title: Course logistics
 |         |  Office Hours    |
 | ------------- | :-----------: |
 | Guanya Shi | Email appointment |
-| Steven Man | Monday 2-3 pm |
-| Haochen Zhang | Tuesday (TBD) |
+| Steven Man | Monday 2-3 PM, NSH 4123 |
+| Haochen Zhang | Tuesday 2-3 PM, NSH 4201 |
 | Wenli Xiao | Wednesday (TBD) |
-| Ying Yuan |  Thursday 3-4 PM |
-| Chaitanya Chawla | Fri 10:30-11:30 AM |
+| Ying Yuan |  Thursday 3-4 PM, NSH 4125 |
+| Chaitanya Chawla | Friday 10:30-11:30 AM, Location TBD |
 
 <!-- ### Class Forum
 
