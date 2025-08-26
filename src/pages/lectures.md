@@ -8,7 +8,7 @@ Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2025/1
 
 | Date | Lecture| Optional Readings | Logistics | Topic Groups|
 |------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------|
-| 08/26| Lecture 1: Course Introduction: What is Robot Learning? [[slides](#)] | [[Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289)]|| 🔴 Introduction   |
+| 08/26| Lecture 1: Course Introduction: What is Robot Learning? [[slides](https://drive.google.com/file/d/1BDNXjOBxfP50mi9NN30HVuFdQIDJVjwB/view?usp=sharing)] | [[Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289)]|| 🔴 Introduction   |
 | 08/28| Lecture 2: Robot Learning: An Overview [[slides](#)]| [[RL Textbook, Ch 1](http://incompleteideas.net/book/RLbook2018.pdf)]  || 🔴 Introduction   |
 | 09/02| Lecture 3: ML/DL Refresher Part 1 [[slides](#)] | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)]| HW1 Out   | 🟠 ML/DL Refresher|
 | 09/04| Lecture 4: ML/DL Refresher Part 2 [[slides](#)] | [[DL Textbook, Ch 5-10](https://www.deeplearningbook.org/)]|| 🟠 ML/DL Refresher|
