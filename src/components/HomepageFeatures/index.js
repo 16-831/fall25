@@ -77,6 +77,14 @@ export default function HomepageFeatures() {
         <div className="row">
           <div className="col">
             <div className="text--center">
+              <h3><a href="https://jasonjzliu.com/">Jason Liu</a></h3>
+            </div>
+            <div className="text--center">
+              <img className={styles.featureImage} src="img/staff_pictures/jjliu.jpg" alt=""/>
+            </div>
+          </div>
+          <div className="col">
+            <div className="text--center">
               <h3><a href="https://haochenz11.github.io/">Haochen Zhang</a></h3>
             </div>
             <div className="text--center">
