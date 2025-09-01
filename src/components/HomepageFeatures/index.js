@@ -77,7 +77,7 @@ export default function HomepageFeatures() {
         <div className="row">
           <div className="col">
             <div className="text--center">
-              <h3><a href="https://jasonjzliu.com/">Jason Liu</a></h3>
+              <h3 className={styles.name}><a href="https://jasonjzliu.com/">Jason Liu</a></h3>
             </div>
             <div className="text--center">
               <img className={styles.featureImage} src="img/staff_pictures/jjliu.jpg" alt=""/>
@@ -85,7 +85,7 @@ export default function HomepageFeatures() {
           </div>
           <div className="col">
             <div className="text--center">
-              <h3><a href="https://haochenz11.github.io/">Haochen Zhang</a></h3>
+              <h3 className={styles.name}><a href="https://haochenz11.github.io/">Haochen Zhang</a></h3>
             </div>
             <div className="text--center">
               <img className={styles.featureImage} src="img/staff_pictures/haochen.jpg" alt=""/>
@@ -94,7 +94,7 @@ export default function HomepageFeatures() {
 
           <div className="col">
             <div className="text--center">
-              <h3><a href="https://www.ri.cmu.edu/ri-people/steven-man/">Steven Man</a></h3>
+              <h3 className={styles.name}><a href="https://www.ri.cmu.edu/ri-people/steven-man/">Steven Man</a></h3>
             </div>
             <div className="text--center">
               <img className={styles.featureImage} src="img/staff_pictures/steven.jpg" alt=""/>
@@ -103,7 +103,7 @@ export default function HomepageFeatures() {
 
           <div className="col">
             <div className="text--center">
-              <h3><a href="https://chaitanya1chawla.github.io/">Chaitanya Chawla</a></h3>
+              <h3 className={styles.name}><a href="https://chaitanya1chawla.github.io/">Chaitanya Chawla</a></h3>
             </div>
             <div className="text--center">
               <img className={styles.featureImage} src="img/staff_pictures/chai.png" alt=""/>
@@ -112,7 +112,7 @@ export default function HomepageFeatures() {
 
           <div className="col">
             <div className="text--center">
-              <h3><a href="https://yingyuan0414.github.io/">Ying Yuan</a></h3>
+              <h3 className={styles.name}><a href="https://yingyuan0414.github.io/">Ying Yuan</a></h3>
             </div>
             <div className="text--center">
               <img className={styles.featureImage} src="img/staff_pictures/ying.jpg" alt=""/>
@@ -121,7 +121,7 @@ export default function HomepageFeatures() {
 
           <div className="col">
             <div className="text--center">
-              <h3><a href="https://www.wenlixiao.com/">Wenli Xiao</a></h3>
+              <h3 className={styles.name}><a href="https://www.wenlixiao.com/">Wenli Xiao</a></h3>
             </div>
             <div className="text--center">
               <img className={styles.featureImage} src="img/staff_pictures/wenli.jpg" alt=""/>
