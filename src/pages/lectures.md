@@ -36,6 +36,6 @@ Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2025/1
 | 11/20| Lecture 23: Multi-Task/Adaptable/Transferable Robot Learning [[slides](#)] | [[Teacher-Student](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/448343/1/2020_science_robotics_lee_locomotion.pdf)][[RMA](https://arxiv.org/abs/2107.04034)][[Neural-Fly](https://arxiv.org/abs/2205.06908)] || 🟤 Specialized Topics |
 | 11/25| Lecture 24: Humanoid Learning ([Carlo Sferrazza](https://sferrazza.cc/)) [[slides](#)] | | | 🟤 Specialized Topics |
 | 11/27| Thanksgiving | || 🦃|
-| 12/01| Lecture 25: Student Project Presentations (special time, 5-6:30pm) | || ⚫ Project  |
+| 12/01| Lecture 25: Student Project Presentations (special time, 5-6:30pm, at Wean Hall 7500 Learning Hall) | || ⚫ Project  |
 | 12/02| Lecture 26: Student Project Presentations | || ⚫ Project  |
 | 12/12| | | Project Report Due | ✨ |
