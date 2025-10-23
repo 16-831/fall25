@@ -25,7 +25,7 @@ Lecture slides are posted here and on [Piazza](https://piazza.com/cmu/fall2025/1
 | 10/14| Fall Break| |Project Proposal Due | ⛱️|
 | 10/16| Fall Break| || ⛱️|
 | 10/21| Lecture 15: Optimal Control and Planning Part 2 [[slides](https://drive.google.com/file/d/1TuMuNZbmh7xJWHk4CWnPBGaVDIHxDx_0/view?usp=sharing)] | [[PETS](https://arxiv.org/abs/1805.12114)][[Neural-Control Family](https://www.gshi.me/blog/NeuralControl/)][[MPPI](https://homes.cs.washington.edu/~bboots/files/InformationTheoreticMPC.pdf)][[PILCO](https://www.cs.utexas.edu/users/sniekum/classes/RLFD-F15/papers/Deisenroth11.pdf)][[MBPO](https://arxiv.org/pdf/1906.08253.pdf)] |   | 🔵 Model-Based RL|
-| 10/23| Lecture 16: Deep Model-Based RL [[slides](#)] | [[Dreamer](https://arxiv.org/pdf/1912.01603.pdf)][[TD-MPC](https://nicklashansen.github.io/td-mpc/)]  || 🔵 Model-Based RL|
+| 10/23| Lecture 16: Deep Model-Based RL [[slides](https://drive.google.com/file/d/14vQPKIHGcHq7_oHPKnavYpVpxcMItEgC/view?usp=sharing)] | [[Dreamer](https://arxiv.org/pdf/1912.01603.pdf)][[TD-MPC](https://nicklashansen.github.io/td-mpc/)]  || 🔵 Model-Based RL|
 | 10/28| Lecture 17: Bandits and Preference-Based Learning [[slides](#)] | [[RL Textbook, Ch 2](http://incompleteideas.net/book/RLbook2018.pdf)][[Dueling Bandits](https://www.cs.cornell.edu/people/tj/publications/yue_etal_09a.pdf)] | HW3 Due; HW4 Out| 🟡 Bandits and Exploration   |
 | 10/30| Lecture 18: Exploration [[slides](#)] | [[Curiosity](https://arxiv.org/pdf/1705.05363.pdf)][[RND](https://arxiv.org/pdf/1810.12894.pdf)] || 🟡 Bandits and Exploration   |
 | 11/04| Democracy Day | || 🗳️|
