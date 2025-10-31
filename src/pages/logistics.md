@@ -20,7 +20,7 @@ title: Course logistics
 | Haochen Zhang | Tuesday 2-3 PM, NSH 4201 |
 | Wenli Xiao | Wednesday 5-6 PM, [Zoom](https://cmu.zoom.us/j/92542346494) |
 | Ying Yuan |  Thursday 3-4 PM, NSH 4125 |
-| Chaitanya Chawla | Friday 10:30-11:30 AM, Smith 116 |
+| Chaitanya Chawla | Friday 10:30-11:30 AM, [Zoom](https://cmu.zoom.us/j/97374623163?pwd=pGKxG5Y2mQRab1uI8WSh8WiqAIetfv.1) |
 | Jason Liu | Monday 4-5 PM, GHC 3201 |
 
 
