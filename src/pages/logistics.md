@@ -16,7 +16,7 @@ title: Course logistics
 |         |  Office Hours    |
 | ------------- | :-----------: |
 | Guanya Shi | Email appointment |
-| Steven Man | Monday 2-3 PM, NSH 4123 |
+| Steven Man | Monday 1-2 PM, NSH 4123 |
 | Haochen Zhang | Tuesday 2-3 PM, NSH 4201 |
 | Wenli Xiao | Wednesday 5-6 PM, [Zoom](https://cmu.zoom.us/j/92542346494) |
 | Ying Yuan |  Thursday 3-4 PM, NSH 4125 |
